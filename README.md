@@ -24,7 +24,7 @@ rails server
 ```
 
 ## Live Demo
-- [View Demo](https://duls-covid-reporter.herokuapp.com/)
+- [View Demo](https://duls-react-rails-frontend.herokuapp.com/)
 
 
 ## Authors
