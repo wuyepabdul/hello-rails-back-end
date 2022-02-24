@@ -26,6 +26,18 @@ rails server
 ## Live Demo
 - [View Demo](https://duls-react-rails-frontend.herokuapp.com/)
 
+## Front-end git repo
+```
+git clone https://github.com/wuyepabdul/hello-rails-frontend
+
+cd hello-rails-frontend
+rails db:create
+rails db:migrate
+rails db:seed
+
+rails server
+
+```
 
 ## Authors
 
