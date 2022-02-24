@@ -27,6 +27,8 @@ rails server
 - [View Demo](https://duls-react-rails-frontend.herokuapp.com/)
 
 ## Front-end git repo
+- [View Repo](https://github.com/wuyepabdul/hello-rails-frontend)
+
 ```
 git clone https://github.com/wuyepabdul/hello-rails-frontend
 
